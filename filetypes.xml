@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*egg-info;*~;.DS_Store;.cache;.coverage;.git;.gitattributes;.gitignore;.hg;.ipynb_checkpoints;.svn;.tox;.vagrant;CVS;RCS;SCCS;__pycache__;_svn;build;dist;htmlcov;profiles;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="Dockerfile*" type="Dockerfile" />
+      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
+      <mapping pattern="guide_destinations" type="JSON" />
+      <mapping pattern="bashhttpd" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="prod_dump" type="PLAIN_TEXT" />
+      <mapping ext="repo" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
